@@ -1,0 +1,1 @@
+[{"uid":"ff3029f298efbc8f","name":"Sign in and get an error message","time":{"start":1693249346354,"stop":1693249379376,"duration":33022},"status":"broken","severity":"normal"},{"uid":"d8c922770a593ea2","name":"Navigate to Amazon and  menu button","time":{"start":1693249310821,"stop":1693249346352,"duration":35531},"status":"passed","severity":"normal"}]
